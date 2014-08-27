@@ -1,4 +1,4 @@
-# puppet-ntp
+## puppet-ntp
 
 Manage NTP client and server via Puppet
 
